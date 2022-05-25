@@ -1,3 +1,6 @@
+*{
+    margin: 20px 40px 20px 40px;
+}
 h2{
     color: red; 
     background: rgb(27, 233, 164);
@@ -8,4 +11,20 @@ h2{
 p{
     text-align: justify;
     background-color: burlywood;
+   /* margin-left: 80px;
+    margin-right: 80px;
+   margin-top: 020%;*/
+  
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 10px dotted green;
+    border-radius: 50%;
+    border-bottom: 2px solid red;
+    border-left: 9px double blue;
+    border-right: 9px double;
+  
+    
 }
